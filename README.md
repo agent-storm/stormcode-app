@@ -18,7 +18,7 @@ A simple application made to simplify the learning experience of students, in th
 - Kivy         -`pip install kivy`
 - Kivy-md      -`pip install kivymd`
 - PyInstaller  -`pip install pyisntaller`
-  Its recommened that you create a python venv and then install the necessary libraries to keep your main libraries clean.
+  <br>Its recommened that you create a python venv and then install the necessary libraries to keep your main libraries clean.</br>
 ### Note:
   The above source code does not consist of any compilers or interpreters that are needed to run the application, this is due to github restricting large files, if you want to actually 
 edit or use the code, you have to download and place compilers in the Assets>compilers directory (Python, Java, MinGw).
