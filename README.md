@@ -10,10 +10,15 @@ A simple application made to simplify the learning experience of students, in th
 - NSIS          - Installer
 - Google Drive  - Publishing platform
 
-## Installation link 
+## Direct App Installation link 
 - https://drive.google.com/drive/folders/17GlkWsaUFH3xI6cW-Oyf5cZ6NqnJNklo?usp=sharing
-- The installation guide can also be found in the linked folder, the google drive folder belongs to be and therefore there is no need to be concerned with nay installation viruses.
+- The installation guide can also be found in the linked folder, the google drive folder belongs to me and therefore there is no need to be concerned with any installation viruses.
 
+## Prerequisite to run the .py
+- Kivy         -`pip install kivy`
+- Kivy-md      -`pip install kivymd`
+- PyInstaller  -`pip install pyisntaller`
+  Its recommened that you create a python venv and then install the necessary libraries to keep your main libraries clean.
 ### Note:
   The above source code does not consist of any compilers or interpreters that are needed to run the application, this is due to github restricting large files, if you want to actually 
 edit or use the code, you have to download and place compilers in the Assets>compilers directory (Python, Java, MinGw).
